@@ -26,4 +26,4 @@ In this activity, we cleaned an excel sheet full of errors and redundancy using 
 - Save and validate the structure.
 
 ## Relational Data Model
-<img src="Images/Relation.PNG" alt="Alt Text" Width="600" heigth="200">
+<img src="Images/Relation.png" alt="Alt Text" Width="600" heigth="200">
